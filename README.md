@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 </p>
 
 ## Hi! Welcome to my GitHub 👋
-🧑‍🎓 I'm a master's student at Keio University.
+🧑‍🎓 I am a Master's student specializing in **Computer Vision** and **Machine Learning**.
 
-🔍 My research topic is Computer Vision.
+🔬 Currently, I am conducting collaborative research with **Carnegie Mellon University (CMU)** focused on Cryo-EM analysis.
 
 
 ## Stats
